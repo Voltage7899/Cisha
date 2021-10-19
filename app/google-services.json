@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689588976622",
+    "project_id": "cisha-2f873",
+    "storage_bucket": "cisha-2f873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689588976622:android:8b6209574334d80e536cff",
+        "android_client_info": {
+          "package_name": "com.company.cisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689588976622-q5qeni6kci4ct1ed42l5gjelop6v871j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.cisha",
+            "certificate_hash": "2733802cecee92d1c844b2c78a9809bef06f7e47"
+          }
+        },
+        {
+          "client_id": "689588976622-cv101ccpd9hu9ig335p9kmqnim9onbco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHzX5sLgL0r7ANc9wzL_t9bW7NvHB9IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689588976622-cv101ccpd9hu9ig335p9kmqnim9onbco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
